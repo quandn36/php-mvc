@@ -1,0 +1,59 @@
+
+/*custom css modals*/
+.required {
+	color: red;
+}
+/*body.modal-open .main_container {
+	-webkit-filter: blur(2px);
+	-moz-filter: blur(2px);
+	-o-filter: blur(2px);
+	-ms-filter: blur(2px);
+	filter: blur(2px);
+}*/
+
+/*css dashboard*/
+/*.tile_count.count {
+	width: 100%;SSSSSS
+}*/
+
+
+/*css alertify message position*/
+.alertify-notifier.ajs-right .ajs-message.ajs-visible { 
+	left: 1px !important;
+	font-size: 12px;
+}
+
+
+/*quandn custom phan doi mat khau*/
+ .admin_profile_modal {
+    position: fixed;
+    top: 8px;
+    right: 65px;
+
+  }
+  .card_admin_profile {
+    width: 100%;
+    max-width: 300px;
+  }
+
+  .pass_show {
+    position: relative;
+  } 
+
+  .pass_show .ptxt { 
+    position: absolute; 
+    top: 50%; 
+    right: 10px; 
+    z-index: 1; 
+    color: #f36c01; 
+    margin-top: -10px; 
+    cursor: pointer; 
+    transition: .3s ease all; 
+  } 
+
+  .pass_show .ptxt:hover{
+    color: #333333;
+  }
+
+
+  
